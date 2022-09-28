@@ -1,0 +1,47 @@
+* {
+  font-size: 25px;
+  font-family: "Gentium Book Basic", serif;
+  color: white;
+}
+h1 {
+  color: navy;
+  padding-bottom: 10px;
+}
+input {
+  color: navy;
+}
+button {
+  background-color: rgb(228, 166, 133);
+  color: white;
+  font-weight: bold;
+  margin-top: 25px;
+  padding: 10px;
+  border-radius: 10%;
+  background-color: gray;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+  align-content: center;
+}
+
+.green-box {
+  height: 400px;
+  width: 600px;
+  background-color: lightgreen;
+  border: 2px solid darkolivegreen;
+}
+.inputBox {
+  padding-top: 15%;
+  color: black;
+}
+
+.blue-box {
+  display: none;
+  margin-top: 25px;
+  height: 400px;
+  width: 600px;
+  background-color: lightskyblue;
+  border: 2px solid darkolivegreen;
+}
